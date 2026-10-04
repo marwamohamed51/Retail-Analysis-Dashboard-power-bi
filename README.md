@@ -79,6 +79,11 @@ Interactive decomposition tree used to drill down sales performance by:
 
 ---
 
+## 🔹 Customers Overview
+![Customers Dashboard](images/customers.jpg)
+
+---
+
 ## 🔹 Decomposition Tree
 ![Decomposition Tree](images/decomposition_tree.jpg)
 
