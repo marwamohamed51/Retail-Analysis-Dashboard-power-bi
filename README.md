@@ -75,12 +75,12 @@ Interactive decomposition tree used to drill down sales performance by:
 ---
 
 ## 🔹 Orders Overview
-![Orders Dashboard](orders.jpg)
+![Orders Dashboard](images/orders.jpg)
 
 ---
 
 ## 🔹 Decomposition Tree
-![Decomposition Tree](decomposition_tree.jpg)
+![Decomposition Tree](images/decomposition_tree.jpg)
 
 ---
 
