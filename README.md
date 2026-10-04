@@ -70,7 +70,7 @@ Interactive decomposition tree used to drill down sales performance by:
 # 📸 Dashboard Preview
 
 ## 🔹 Sales Overview
-![Sales Dashboard](sales.jpg)
+![Sales Dashboard](images/sales.jpg)
 
 ---
 
